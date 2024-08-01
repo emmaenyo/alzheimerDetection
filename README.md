@@ -12,3 +12,21 @@ Alzheimer's disease (AD) is a neurodegenerative disease that usually starts sl
 - <b> Middle stage :</b> Progressive deterioration eventually hinders independence, with subjects being unable to perform most common activities of daily living. Speech difficulties become evident due to an inability to recall vocabulary, which leads to frequent incorrect word substitutions.</b>
 
 - <b> Late stage :</b> During the final stage, known as the late-stage or severe stage, there is complete dependence on caregivers. Language is reduced to simple phrases or even single words, eventually leading to complete loss of speech.</b>
+
+<h1>WHAT THIS COVERED HERE</h1> 
+
+- <b> Developed an Alzheimer disease detection System using Convolutional Neural Network Architecture.
+
+- <b> Magnetic Resonance Imaging  Dataset for training the model.
+
+ <h2> NB: Image Source: Kaggle<h2>
+
+
+ <h1> MAIN OBJECTIVES --->> ANALYSIS</h1> 
+ To detect Alzheimer Disease in the human brain
+ 
+ - <b> Perform Image Classification.
+
+ - <b> To perform analysis on Alzheimer data.
+
+
