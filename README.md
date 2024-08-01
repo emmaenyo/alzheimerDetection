@@ -28,5 +28,10 @@ Alzheimer's disease (AD) is a neurodegenerative disease that usually starts sl
  - <b> Perform Image Classification.
 
  - <b> To perform analysis on Alzheimer data.
+   
 
-
+ <h1>DATASET</h1>
+   
+<p align="center">
+<img src="https://imgur.com/zS4iu29.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
