@@ -35,3 +35,6 @@ Alzheimer's disease (AD) is a neurodegenerative disease that usually starts sl
 <p align="center">
 <img src="https://imgur.com/zS4iu29.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+ <h1>SYSTEM ARCHETECTURE </h1>
+
