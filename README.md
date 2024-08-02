@@ -53,3 +53,28 @@ Alzheimer's disease (AD) is a neurodegenerative disease that usually starts sl
  - <b> None Demented
 
  - <b> Very Mild Demented
+
+
+ <h1>MildDemented </h1>
+
+ <p align="center">
+<img src="https://imgur.com/XsGTRYy.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
+  <h1>ModeratedDemented </h1>
+<p align="center">
+<img src="https://imgur.com/Ngfe9J7.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
+  <h1>None Demented </h1>
+
+  <p align="center">
+<img src="https://imgur.com/htkk0MZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+   
+  <h1>Very Mild Demented </h1>
+
+<p align="center">
+<img src="https://imgur.com/EoHSJsk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ 
