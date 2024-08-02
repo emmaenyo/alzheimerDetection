@@ -43,3 +43,13 @@ Alzheimer's disease (AD) is a neurodegenerative disease that usually starts sl
 <p align="center">
 <img src="https://imgur.com/VYnV5oG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+ <h1> CLASSES OF THE IMAGE DATASET </h1>
+
+ - <b> MildDemented.
+
+ - <b> ModeratedDemented.
+
+ - <b> None Demented
+
+ - <b> Very Mild Demented
