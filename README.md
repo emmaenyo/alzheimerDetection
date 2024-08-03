@@ -78,3 +78,43 @@ Alzheimer's disease (AD) is a neurodegenerative disease that usually starts sl
 <img src="https://imgur.com/EoHSJsk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  
+  <h1>Model Performance Virtualization</h1>
+
+<p align="center">
+<img src="https://imgur.com/NLD7kUj.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+<img src="https://imgur.com/GmPHP3j.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+   <h1>Generic Model Creation</h1>
+<p align="center">
+<img src="https://imgur.com/2aCAOmY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h1> Learning Rate Shedule</h1>
+
+<p align="center">
+<img src="https://imgur.com/iOy1yew.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+ <h1> Precision Recall Curve</h1>
+
+<p align="center">
+<img src="https://imgur.com/3b980uL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+ <h1> Receiver Operating Charactoristic Curve</h1>
+
+<p align="center">
+<img src="https://imgur.com/QrOuAe8.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+ <h1> PERFORMANCE ANALYSIS</h1>
+ 
+<p align="center">
+<img src="https://imgur.com/WpojvAn.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
